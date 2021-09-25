@@ -1,0 +1,12 @@
+C:\Projects\Apollo\Apollo.Tiers.Business\bin\Debug\netcoreapp3.1\Apollo.Tiers.Business.deps.json
+C:\Projects\Apollo\Apollo.Tiers.Business\bin\Debug\netcoreapp3.1\Apollo.Tiers.Business.dll
+C:\Projects\Apollo\Apollo.Tiers.Business\bin\Debug\netcoreapp3.1\Apollo.Tiers.Business.pdb
+C:\Projects\Apollo\Apollo.Tiers.Business\obj\Debug\netcoreapp3.1\Apollo.Tiers.Business.csproj.AssemblyReference.cache
+C:\Projects\Apollo\Apollo.Tiers.Business\obj\Debug\netcoreapp3.1\Apollo.Tiers.Business.AssemblyInfoInputs.cache
+C:\Projects\Apollo\Apollo.Tiers.Business\obj\Debug\netcoreapp3.1\Apollo.Tiers.Business.AssemblyInfo.cs
+C:\Projects\Apollo\Apollo.Tiers.Business\obj\Debug\netcoreapp3.1\Apollo.Tiers.Business.csproj.CoreCompileInputs.cache
+C:\Projects\Apollo\Apollo.Tiers.Business\obj\Debug\netcoreapp3.1\Apollo.Tiers.Business.dll
+C:\Projects\Apollo\Apollo.Tiers.Business\obj\Debug\netcoreapp3.1\Apollo.Tiers.Business.pdb
+C:\Projects\Apollo\Apollo.Tiers.Business\bin\Debug\netcoreapp3.1\Apollo.Tiers.DataAccess.dll
+C:\Projects\Apollo\Apollo.Tiers.Business\bin\Debug\netcoreapp3.1\Apollo.Tiers.DataAccess.pdb
+C:\Projects\Apollo\Apollo.Tiers.Business\obj\Debug\netcoreapp3.1\Apollo.Tiers.Business.csproj.CopyComplete
